@@ -5,4 +5,4 @@ This is draft:
 
 High-Level System-Diagram:
 
-![High-Level](/High-Level Lotus-system diagram.drawio.svg)
+![High-Level](/High-Level%20Lotus-system%20diagram.drawio.svg)
