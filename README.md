@@ -10,3 +10,6 @@ High-Level System-Diagram:
 High-Level SP-Diagram:
 
 ![High-Level-SP](/High-Level-SP-Diagram.svg)
+
+Lotus-Worker:
+![Lotus-Worker](/lotus-worker-interface.svg)
