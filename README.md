@@ -6,3 +6,7 @@ This is draft:
 High-Level System-Diagram:
 
 ![High-Level](/High-Level%20Lotus-system%20diagram.drawio.svg)
+
+High-Level SP-Diagram:
+
+![High-Level-SP](/High-Level-SP-Diagram.svg)
