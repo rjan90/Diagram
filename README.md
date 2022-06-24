@@ -1,7 +1,4 @@
-# Diagram
-This is draft:
-![Diagram test](/Diagram.drawio.svg)
-
+# Diagrams
 
 High-Level System-Diagram:
 
@@ -13,8 +10,12 @@ Lotus-Worker:
 
 Lotus-Worker V2:
 
-![Lotus-Worker](/lotus-worker-interface-V2.svg)
+![Lotus-Worker](/lotus-worker-interface-v2.svg)
 
 High-Level sealing-diagram:
 
 ![High-Level-SP](/High-Level-SP-Diagram.svg)
+
+
+Draft:
+![Diagram test](/Diagram.drawio.svg)
