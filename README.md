@@ -4,6 +4,10 @@ High-Level System-Diagram:
 
 ![High-Level](/High-Level%20Lotus-system%20diagram.drawio.svg)
 
+High-Level Full-System-Diagram:
+
+![High-Level-Full](/High-Level-Full-Lotus-system.svg)
+
 Lotus-Worker:
 
 ![Lotus-Worker](/lotus-worker-interface.svg)
