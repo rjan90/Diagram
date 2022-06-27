@@ -16,7 +16,7 @@ Lotus-Worker V2:
 
 ![Lotus-Worker](/lotus-worker-interface-v2.svg)
 
-High-Level sealing-diagram:
+High-Level general sealing-diagram:
 
 ![High-Level-SP](/High-Level-SP-Diagram.svg)
 
