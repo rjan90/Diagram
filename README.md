@@ -20,6 +20,7 @@ High-Level general sealing-diagram:
 
 ![High-Level-SP](/High-Level-SP-Diagram.svg)
 
+High-Level Snap-Deals sealing-diagram:
 
 Draft:
 ![Diagram test](/Diagram.drawio.svg)
