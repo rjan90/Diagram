@@ -1,6 +1,6 @@
 # Diagrams
 
-High-Level System-Diagram:
+High-Level Lotus Suite:
 
 ![High-Level](/High-Level%20Lotus-system%20diagram.drawio.svg)
 
