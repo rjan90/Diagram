@@ -22,5 +22,8 @@ High-Level general sealing-diagram:
 
 High-Level Snap-Deals sealing-diagram:
 
+Draft2:
+![Diagram test](/sub-process-diagram.svg)
+
 Draft:
 ![Diagram test](/Diagram.drawio.svg)
